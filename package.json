@@ -1,0 +1,23 @@
+{
+  "name": "atilho",
+  "version": "0.0.1",
+  "description": "Manage your money.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrigosaling/atilho.git"
+  },
+  "keywords": [
+    "money",
+    "family",
+    "transactions"
+  ],
+  "author": "Rodrigo Saling",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
