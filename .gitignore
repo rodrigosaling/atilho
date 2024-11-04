@@ -1,5 +1,7 @@
-/node_modules
-/packages/server/node_modules
-/packages/server/dist
-/packages/web/node_modules
-/packages/web/dist
+node_modules/
+packages/server/node_modules/
+packages/server/dist/
+packages/web/node_modules/
+packages/web/dist/
+
+.vscode/settings.json
