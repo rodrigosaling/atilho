@@ -1,0 +1,26 @@
+{
+  "name": "@atilho/server",
+  "version": "0.0.1",
+  "description": "The backend side.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "start": "node dist/server.js",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript"
+  ],
+  "author": "Rodrigo Saling",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.8.7",
+    "tsx": "^4.19.2"
+  }
+}
