@@ -1,3 +1,3 @@
 # Atilho
 
-Control your money.
+Control your and your family/group/tribe money.
